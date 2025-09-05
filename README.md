@@ -26,18 +26,6 @@ The dataset provides rich financial indicators for building robust prediction mo
 
 ---
 
-## ⚙️ Installation
-
-Clone the repository and install dependencies:
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-pip install -r requirements.txt
-```
-
----
-
 ## 🚀 Usage
 
 1. Open the Jupyter Notebook:
